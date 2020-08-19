@@ -1,5 +1,6 @@
-dist: xenial
-group: travis_latest
+os: linux
+arch: arm64
+dist: bionic
 
 language: go
 
